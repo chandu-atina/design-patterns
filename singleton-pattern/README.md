@@ -1,4 +1,4 @@
-# Single Pattern
+# Singleton Pattern
 
 ## Java Implementation
 
